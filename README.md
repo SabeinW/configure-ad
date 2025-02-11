@@ -34,7 +34,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Attach it to the same region and Virtual Network as DC-1
 - After VM is created, set Client-1’s DNS settings to DC-1’s Private IP address
 - From Client-1, open PowerShell and run ipconfig /all
-(The output for the DNS settings should show DC-1’s private IP Address)
+- Install Active Directory
+- Create a Domain Admin user within the domain
+- Join Client-1 to your domain (mydomain.com)
+- Setup Remote Desktop for non-administrative users on Client-1
+- Create a bunch of additional users and attempt to log into client-1 with one of the users
+
 
 
 
