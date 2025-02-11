@@ -29,7 +29,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create a Resource Group
 - Create a Virtual Network and Subnet
 - Create the Domain Controller VM (Windows Server 2022)
-- Step 4
+- Setup Client-1 in Azure
+- Create the Client VM (Windows 10)
+- Attach it to the same region and Virtual Network as DC-1
+- After VM is created, set Client-1’s DNS settings to DC-1’s Private IP address
+- From Client-1, open PowerShell and run ipconfig /all
+(The output for the DNS settings should show DC-1’s private IP Address)
+
+
 
 <h2>Deployment and Configuration Steps</h2>
 
