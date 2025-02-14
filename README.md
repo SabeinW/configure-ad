@@ -96,7 +96,7 @@ If there are issues, this command is the first troubleshooting step in diagnosin
 <img src="https://i.imgur.com/HlVXaPK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Installing Active Directory Domain Services (AD DS) is essential for managing a Windows-based IT infrastructure. It centralizes user authentication, security, and resource management, making IT operations more secure, efficient, and scalable.
 </p>
 <br />
 
@@ -106,10 +106,10 @@ If there are issues, this command is the first troubleshooting step in diagnosin
 <img src="https://i.imgur.com/fyvspYB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
-
+Creating a Domain Admin user is a best practice in Active Directory management. It ensures secure administration, prevents unauthorized changes, and allows IT teams to efficiently manage the domain.
 <p>
 <img src="https://i.imgur.com/11ZVsEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/bsijEU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -117,7 +117,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
    
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Joining Client-1 to mydomain.com ensures centralized management, security, and access control in an enterprise IT environment. It simplifies user authentication, IT administration, and resource access, making it a best practice for businesses.
 </p>
 <br />
 
@@ -128,7 +128,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
    
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setting up Remote Desktop for non-admin users on Client-1 allows IT staff and employees to securely access workstations remotely without giving unnecessary admin rights. This improves security, efficiency, and IT management while preventing unauthorized system modifications.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
    
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating additional users and testing login ensures that domain authentication is working properly. This step is crucial for verifying Active Directory setup, user permissions, and network policies, which are essential for managing an IT environment effectively.
 </p>
 <br />
 
