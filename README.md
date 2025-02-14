@@ -49,7 +49,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/5wLc5pJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created and deployed the Vnet for the virtual machines in azure, inside the "Active-Directory-Lab" resource group (a virtual network lets computers and devices talk to each other without needing physical cables, making IT networks more flexible, scalable, and efficient!).  
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/pERPKJA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Created and deployed the windows server virtual machine in azure, inside the "Active-Directory-Lab" resource group for unified deployment, organization as well as easier management.   
+Created and deployed the windows server virtual machine in azure, inside the "Active-Directory-Lab" resource group for unified deployment, organization as well as easier management.   
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Created and deployed the windows 10 virtual machine in azure, inside the "Active
 <img src="https://i.imgur.com/fCHSqz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setting Client-1’s DNS to DC-1’s Private IP is essential for domain authentication, Active Directory functionality, group policy updates, and proper internal resource resolution. Without this setting, Client-1 may fail to join the domain, authenticate users, or access shared network resources.   
 </p>
 <br />
 
